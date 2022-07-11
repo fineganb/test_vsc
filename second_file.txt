@@ -1,2 +1,4 @@
-other stuff
+other stuff and this was modified
+this line was inserted later
 and more
+some more
